@@ -3,5 +3,5 @@ You can supply images of the following sports persond:-
 Serena Williams;
 Maria Sharapova;
 Roger Federer;
-Vrat Kohli;
+Virat Kohli;
 Lionel Messi
